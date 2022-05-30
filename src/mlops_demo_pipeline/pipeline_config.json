@@ -1,0 +1,4 @@
+# This file can contain information on different application parameters required for
+# execution of pipeline an algorithms
+# For example training parameters, paths to BQ databases, output paths, common variables etc.
+# This file can also serve as entry space for any user variables if required
